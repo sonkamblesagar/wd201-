@@ -1,1 +1,5 @@
-<h1>This is index of page! </h1>
+const hello = () => {
+   console.log("hello Github!");
+};
+
+hello();
